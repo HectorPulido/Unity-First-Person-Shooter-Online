@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R7 360 Series (ID=0x665f)
+    Vendor:   ATI
+    VRAM:     2025 MB
+    Driver:   21.19.137.1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.310 seconds
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ASUS\Desktop\A CREEPY HORROR GAME\ShooterMultijugador\ShooterMultijugador\Builds\Build1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.611824 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ca4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.580659 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.840280 ms (FindLiveObjects: 0.072814 ms CreateObjectMapping: 0.047475 ms MarkObjects: 0.699602 ms  DeleteObjects: 0.019514 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 6.976804 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 902.
+Total: 0.782611 ms (FindLiveObjects: 0.112425 ms CreateObjectMapping: 0.068445 ms MarkObjects: 0.537080 ms  DeleteObjects: 0.063494 ms)
+
